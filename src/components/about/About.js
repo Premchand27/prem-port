@@ -60,6 +60,11 @@ const About = () => {
             Honored to receive a Certificate of Appreciation for leading an Hour of Code event during Computer Science Week by ACM JNTU GV Student Chapter. 
             During this event, I mentored students in Python programming, fostering their coding skills.
           </p>
+          
+          <p>
+Best Friend and Support : Sanju (Jaggayapeta model , Youth icon)
+          </p>
+          
         </div>
       </div>
     </div>
