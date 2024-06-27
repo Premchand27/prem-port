@@ -61,8 +61,9 @@ const About = () => {
             During this event, I mentored students in Python programming, fostering their coding skills.
           </p>
           
-          <p>
-Best Friend and Support : Sanju (Jaggayapeta model , Youth icon)
+          
+          <h2>Best Friend and Support </h2>
+          <p>Sanju (Jaggayapeta model , Youth icon)
           </p>
           
         </div>
